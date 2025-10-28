@@ -28,9 +28,20 @@ export const allProjectsData: Project[] = [
 		currentProject: true,
 	},
 	{
-		projectTitle: "Codify Website",
-		shortDescription: "Design and maintance of the Codify website, as an internal project",
-		aboutClient: "The website you are on right now, for our organization!",
+		projectTitle: "Coni",
+		shortDescription: "Helping construct Coni's social media platform.",
+		aboutClient: "Social media that rewards high engagement.",
+		aboutProject: "",
+		imgSource:
+			"coni-pfp.jpg",
+		technologies: ["React", "JavaScript", "TypeScript", "TailwindCSS"],
+		linkIcons: ["Website"],
+		linkDestinations: ["https://www.instagram.com/coniapp//"],
+		currentProject: true,
+	},{
+		projectTitle: "Codify Education",
+		shortDescription: "Semester-long full stack education program.",
+		aboutClient: "Intro to web development and Codify! Strengthen your dev skills during out semester long course.",
 		aboutProject: "This is a very self-guided project. A large component will be revamping the design of the Codify website; deciding what should change design-wise is a lot of the project. A secondary component will be general fixing or updating maintenance.",
 		imgSource:
 			"https://media.licdn.com/dms/image/v2/C560BAQGKAulwPRUN8g/company-logo_200_200/company-logo_200_200/0/1669154615582/codify_berkeley_logo?e=2147483647&v=beta&t=jw_TeR5aQgXqPHvjMZyz8paH2fYUce7_vmUzTjzll0Q",
@@ -132,7 +143,8 @@ export const allProjectsData: Project[] = [
 		linkDestinations: ["https://www.kopernicus.com/"],
 		currentProject: false,
 	},
-	{
+	/*{
+	//Image and website unavalible, hidden for now
 		projectTitle: "TrailMarker",
 		shortDescription:
 			"Mobile app to connect you to nearby events and activities ",
@@ -146,7 +158,7 @@ export const allProjectsData: Project[] = [
 		linkIcons: ["Website"],
 		linkDestinations: ["https://thetrailmarker.com/"],
 		currentProject: false,
-	},
+	}*/,
 	{
 		projectTitle: "Scribble AI",
 		shortDescription: "Build a keyboard that allows you to use AI anywhere",
