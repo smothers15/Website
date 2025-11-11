@@ -27,7 +27,8 @@ export const allProjectsData: Project[] = [
 		linkDestinations: ["https://myshake.berkeley.edu/"],
 		currentProject: true,
 	},
-	{
+	/*{
+		//More info needed
 		projectTitle: "Coni",
 		shortDescription: "Helping construct Coni's social media platform.",
 		aboutClient: "Social media that rewards high engagement.",
@@ -38,8 +39,8 @@ export const allProjectsData: Project[] = [
 		linkIcons: ["Website"],
 		linkDestinations: ["https://www.instagram.com/coniapp//"],
 		currentProject: true,
-	},{
-		projectTitle: "Codify Education",
+	},*/{
+		projectTitle: "Codify Education - 61D",
 		shortDescription: "Semester-long full stack education program.",
 		aboutClient: "Intro to web development and Codify! Strengthen your dev skills during out semester long course.",
 		aboutProject: "This is a very self-guided project. A large component will be revamping the design of the Codify website; deciding what should change design-wise is a lot of the project. A secondary component will be general fixing or updating maintenance.",
@@ -47,7 +48,7 @@ export const allProjectsData: Project[] = [
 			"https://media.licdn.com/dms/image/v2/C560BAQGKAulwPRUN8g/company-logo_200_200/company-logo_200_200/0/1669154615582/codify_berkeley_logo?e=2147483647&v=beta&t=jw_TeR5aQgXqPHvjMZyz8paH2fYUce7_vmUzTjzll0Q",
 		technologies: ["React", "JavaScript", "TypeScript", "TailwindCSS"],
 		linkIcons: ["Website"],
-		linkDestinations: ["https://codifyberkeley.org/"],
+		linkDestinations: ["https://codify-berkeley-education.github.io/"],
 		currentProject: true,
 	},
 	{
