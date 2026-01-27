@@ -6,8 +6,6 @@ import Timeline from "../components/Timeline";
 import TextBlock from "../components/TextBlock";
 import PageHeader from "../components/PageHeader";
 import QuoteCarousel from "../components/QuoteCarousel";
-import { Link } from "react-router-dom";
-import Button from "../components/Button";
 
 //Reusable Tile component
 function Tile({ title, description }) {
@@ -80,7 +78,7 @@ export default function Join() {
     <div>
       <PageHeader
         title="Join Us!"
-        body="  Our application for Fall 2025 is open!
+        body="  Our application for Spring 2026 is open!
             We are looking for students
             who are passionate about learning and committed to growth. We strive
             to keep our application process transparent, uncomplicated, and

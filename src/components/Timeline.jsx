@@ -9,7 +9,7 @@ export default function Timeline() {
         date={item.date}
         description={item.description}
         subHeading={item.subHeading}
-      ></TimelineItem>
+      />
     );
   });
 }
