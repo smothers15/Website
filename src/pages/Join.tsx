@@ -52,7 +52,7 @@ export default function Join() {
     {
       title: "3. Interview",
       description:
-        "Meet with interviewers for a 30-minute solo interview to discuss your application and your goals for the semester.",
+        "Meet with interviewers for a 45-minute solo interview to discuss your application and your goals for the semester.",
     },
   ];
 
