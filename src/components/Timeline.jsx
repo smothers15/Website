@@ -21,7 +21,7 @@ function TimelineItem({ title, date, description, subHeading = "" }) {
             {/** Actual Timeline Bar On the Left */}
             <div className="flex flex-col pr-2">
                 <div className="flex p-1 my-1 h-5 w-5 rounded-full border-4 border-codify-lavender group-hover:bg-codify-lavender transition duration-500"></div>
-                <div className="flex-1 p-0.1 w-1 place-self-center bg-codify-lavender hidden"></div>
+                <div className="flex-1 p-0.1 w-1 place-self-center bg-codify-lavender"></div>
             </div>
 
             {/** Timeline Item on the right */}
