@@ -55,7 +55,7 @@ export const timelineData: TimelineEntry[] = [
     },
     {
         title: "Game Night Social",
-        description: "Take a break from studying and hang out with Codify members at our Game Night Social!",
+        description: "Take a break from studying and come to eat and hang out with Codify members at our Game Night Social!",
         date: "1/30",
         subHeading: "8-10PM @ Dwinelle 234"
     },
